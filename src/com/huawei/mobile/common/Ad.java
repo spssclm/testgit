@@ -6,4 +6,5 @@ public class Ad {
 	String BANNER = "0";
 	// wang add
 	String TYPE = "1";
+	String Type = "2";
 }
