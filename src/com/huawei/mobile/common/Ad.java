@@ -4,4 +4,6 @@ public class Ad {
 
 	String VIDEO = "1";
 	String BANNER = "0";
+	// wang add
+	String TYPE = "1";
 }
