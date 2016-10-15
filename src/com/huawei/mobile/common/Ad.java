@@ -10,4 +10,6 @@ public class Ad {
 	
 	//xiaoyu add
 	String XIAOYU = "4";
+	//xiaoyu add2
+	String XIAOYU = "42";
 }
