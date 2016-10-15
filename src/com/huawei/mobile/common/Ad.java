@@ -11,9 +11,9 @@ public class Ad {
 	//xiaoyu add
 	String XIAOYU = "4";
 	//xiaoyu add2
-	String XIAOYU = "42";
+	String XIAOYU2 = "42";
 	//xiaoyu add3
-	String XIAOYU = "43";
+	String XIAOYU3 = "43";
 	
 	
 	//yuan add
