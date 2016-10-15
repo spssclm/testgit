@@ -15,4 +15,7 @@ public class Ad {
 	//xiaoyu add3
 	String XIAOYU = "43";
 	
+	
+	//yuan add
+	String LINFENG = "LINFENG";
 }
