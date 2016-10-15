@@ -18,4 +18,5 @@ public class Ad {
 	
 	//yuan add
 	String LINFENG = "LINFENG";
+	String LINFENG2 = "LINFENG2";
 }
