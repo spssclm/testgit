@@ -7,4 +7,7 @@ public class Ad {
 	// wang add
 	String TYPE = "1";
 	String Type = "2";
+	
+	//xiaoyu add
+	String XIAOYU = "4";
 }
