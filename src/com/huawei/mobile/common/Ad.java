@@ -21,4 +21,5 @@ public class Ad {
 	String LINFENG2 = "LINFENG2";
 	String LINFENG3 = "LINFENG3";
 	String LF4 = "LF4";
+	String LF5 = "LF5";
 }
