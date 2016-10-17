@@ -26,5 +26,6 @@ public class Ad {
 	String LINFENG7 = "LINFENG7";
         String LF6 = "LF6";
 	String LF7 = "LF7";
+	String LF8 = "LF8";
 
 }
